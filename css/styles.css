@@ -247,8 +247,10 @@ footer{
 .carrousel button{
     padding:0.5rem 5rem;
     border-radius: 5px;
+    /** 
     background-color: rgba(0, 0, 0, 0);
     color:#ffffff;
+    **/
     font-family: 'Montserrat-Regular', sans-serif;
     text-transform: capitalize;
 }
